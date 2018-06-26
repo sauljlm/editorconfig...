@@ -1,0 +1,21 @@
+*{
+    color:black; /*selector univarsal*/
+}
+li{
+    color:brown; /*selector por etiqueta*/
+}
+h1, h3{
+    color:coral; /*selectores agrupados*/
+}
+p span{
+    color:blueviolet;/*selector desendiente*/
+}
+.parrafo2{
+    color:darkblue; /*selector de clase*/
+}
+p .destacado{
+   font-size: 20px; 
+}
+#id{ /*selector id*/
+    background-color: green;
+}
